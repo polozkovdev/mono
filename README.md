@@ -1,1 +1,1 @@
-# mono
+# mono and micro frontends 
